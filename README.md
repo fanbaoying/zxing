@@ -1,4 +1,4 @@
-#### ZXing二维码扫描Demo
+#### Android-ZXing 二维码扫描和生成二维码Demo 
 
 在APP开发中，常遇到二维码扫描功能和生成二维码的需求。Android大部分是集成了zxing这个开源项目的扫码功能。
 [开源项目地址](https://github.com/zxing/zxing)
